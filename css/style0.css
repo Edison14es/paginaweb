@@ -498,6 +498,7 @@ hr{
         width: 40%;
         position: absolute;
         height: auto;
+        top: -70px;
     }
     .header-img1{
         width: 100%;
@@ -645,7 +646,6 @@ hr{
     height: 800px;
     top: 200px;
     position: relative;
-    right: 50px;
 }
 .container41{
     position: relative;
