@@ -52,11 +52,11 @@ body{
 .navbar1 ul li{
     position: relative;
     float: left;
-    width: 20%;
+    width: 14%;
     height: 70px;
 }
 .navbar1 ul li a{
-    font-size: 18px;
+    font-size: 15px;
     padding-top: 20px;
     padding-bottom: 20px;
     color: rgb(13, 34, 18);
@@ -78,37 +78,13 @@ body{
     border-radius:25px 0px 0px 25px;
 }
 .contacto1 ul:hover{
-    width: 100%;
-    height: 100%;
-}
-.contacto1:hover{
-    background-color: rgb(33, 99, 18);
-    transition: calc(1.2s);
-    color: white;
-}
-.contacto1 ul{
-    display: none;
-    position: absolute;
-    background-color: green;
-    width: 100%;
-    height: auto;  
-}
-.contacto1 ul li{
-    width: 100%;
-    height: auto;
-}
-.contacto1 ul:hover{
     transition: calc(1.2s);
     background-color: rgb(89, 155, 78);
     border-radius: 25px 25px 25px 25px;
     width: 100%;
     height: auto;
 }
-.uno1:hover{
-    transition: calc(1.2s);
-    border-radius: 0px 0px 10px 10px;
-    height: 49%;
-}
+
 .navbar1 ul li:hover ul{
     text-decoration: none;
     display: block;
